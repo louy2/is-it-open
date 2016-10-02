@@ -15,7 +15,7 @@ Compilation
     npm install
     npm install -g elm
     elm-package install
-    npm build
+    npm run build
 
 LICENSE
 -------
