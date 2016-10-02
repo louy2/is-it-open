@@ -1,0 +1,25 @@
+{
+  "name": "dining-open-now",
+  "version": "0.1.0",
+  "description": "A static page that shows which dining places are open.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "dev": "webpack-dev-server --port 3000"
+  },
+  "author": "Yufan Lou",
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "^0.25.0",
+    "elm-webpack-loader": "^3.0.6",
+    "file-loader": "^0.9.0",
+    "raw-loader": "^0.5.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.2",
+    "webpack-dev-middleware": "^1.8.2",
+    "webpack-dev-server": "^1.16.1"
+  }
+}

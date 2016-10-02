@@ -1,0 +1,66 @@
+{
+    "restaurants": [
+        {
+            "name": "Campus Dining Center",
+            "openDuring": {
+                "Mon": [[7, 30], [20, 0]],
+                "Tue": [[7, 30], [20, 0]],
+                "Wed": [[7, 30], [20, 0]],
+                "Thu": [[7, 30], [20, 0]],
+                "Fri": [[7, 30], [20, 0]],
+                "Sat": [[10, 30], [20, 0]],
+                "Sun": [[10, 30], [20, 0]]
+            }
+        },
+        {
+            "name": "Panthers' Den",
+            "description": "Featuring Nathans and Sonos",
+            "openDuring": {
+                "Mon": [[11, 0], [23, 0]],
+                "Tue": [[11, 0], [23, 0]],
+                "Wed": [[11, 0], [23, 0]],
+                "Thu": [[11, 0], [23, 0]],
+                "Fri": [[11, 0], [15, 0]],
+                "Sun": [[11, 0], [15, 0]]
+            }
+        },
+        {
+            "name": "Mondos Deli",
+            "description": "Featuring Boars Head",
+            "openDuring": {
+                "Mon": [[11, 0], [21, 0]],
+                "Tue": [[11, 0], [21, 0]],
+                "Wed": [[11, 0], [21, 0]],
+                "Thu": [[11, 0], [21, 0]]
+            }
+        },
+        {
+            "name": "Take Out Window",
+            "openDuring": {
+                "Mon": [[11, 0], [26, 0]],
+                "Tue": [[11, 0], [26, 0]],
+                "Wed": [[11, 0], [26, 0]],
+                "Thu": [[11, 0], [26, 0]],
+                "Fri": [[10, 30], [20, 0]],
+                "Sat": [[10, 30], [20, 0]],
+                "Sun": [[10, 30], [20, 0]]
+            }
+        },
+        {
+            "name": "The Atrium Cafe",
+            "openDuring": {
+            }
+        },
+        {
+            "name": "Dunkin Donuts",
+            "description": "Located in the New Academic Building",
+            "openDuring": {
+                "Mon": [[7, 30], [20, 0]],
+                "Tue": [[7, 30], [20, 0]],
+                "Wed": [[7, 30], [20, 0]],
+                "Thu": [[7, 30], [20, 0]],
+                "Fri": [[7, 30], [14, 0]]
+            }
+        }
+    ]
+}
